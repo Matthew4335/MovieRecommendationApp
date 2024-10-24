@@ -1,0 +1,34 @@
+# Node.js (Backend and React Frontend)
+node_modules/
+.env
+build/
+dist/
+coverage/
+
+# MacOS-specific files
+.DS_Store
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor files
+.vscode/
+.idea/
+
+# Python (ML Model)
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.Python
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Miscellaneous
+*.log
